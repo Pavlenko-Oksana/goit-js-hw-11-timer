@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(206, 253, 75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+  color: rgb(247, 28, 28);
+  text-shadow: 1px 1px 2px black;
+  text-align: center;
+}
+
+.field {
+  margin-top: 30px;
+  background-color: rgb(26, 170, 26);
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 20%;
+}
